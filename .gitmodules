@@ -1,0 +1,24 @@
+[submodule "squirrel/http"]
+	path = squirrel/http
+	url = git://github.com/squirrel-framework/http.git
+[submodule "squirrel/autoloader"]
+	path = squirrel/autoloader
+	url = git://github.com/squirrel-framework/autoloader.git
+[submodule "squirrel/debugger"]
+	path = squirrel/debugger
+	url = git://github.com/squirrel-framework/debugger.git
+[submodule "squirrel/filesystem"]
+	path = squirrel/filesystem
+	url = git://github.com/squirrel-framework/filesystem.git
+[submodule "squirrel/finder"]
+	path = squirrel/finder
+	url = git://github.com/squirrel-framework/finder.git
+[submodule "squirrel/framework"]
+	path = squirrel/framework
+	url = git://github.com/squirrel-framework/framework.git
+[submodule "squirrel/routing"]
+	path = squirrel/routing
+	url = git://github.com/squirrel-framework/routing.git
+[submodule "squirrel/typing"]
+	path = squirrel/typing
+	url = git://github.com/squirrel-framework/typing.git
