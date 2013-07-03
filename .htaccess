@@ -1,0 +1,6 @@
+RewriteEngine on
+
+RewriteBase /framework
+
+RewriteRule ^([^$]*)/$ $1 [L,R=301]
+RewriteRule ^ index.php [L]

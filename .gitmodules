@@ -22,3 +22,15 @@
 [submodule "squirrel/typing"]
 	path = squirrel/typing
 	url = git://github.com/squirrel-framework/typing
+[submodule "squirrel/html"]
+	path = squirrel/html
+	url = git://github.com/squirrelframework/html
+[submodule "squirrel/database/sql"]
+	path = squirrel/database/sql
+	url = git://github.com/squirrelframework/database-sql
+[submodule "squirrel/database/redis"]
+	path = squirrel/database/redis
+	url = git://github.com/squirrelframework/database-redis
+[submodule "squirrel/context"]
+	path = squirrel/context
+	url = git://github.com/squirrelframework/context
